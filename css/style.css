@@ -133,7 +133,7 @@ nav .toggle-btn>button {
     max-height: initial !important;
 }
 .active__toggle {
-    height: 50vh !important;
+    max-height: 50vh !important;
 }
 nav .toggle-btn {
     display: flex;
